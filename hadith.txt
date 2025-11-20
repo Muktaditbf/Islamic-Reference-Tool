@@ -1,0 +1,22 @@
+[
+  {
+    "collection": "Sahih al-Bukhari",
+    "number": 55,
+    "text": "The Prophet (ﷺ) said, 'Both legal and illegal things are obvious, and in between them are doubtful matters. So whoever forsakes those doubtful things lest he may commit a sin, will definitely avoid what is clearly illegal; and whoever indulges in these doubtful things bravely, is likely to commit what is clearly illegal. Sins are Allah's Hima (i.e. private pasture) and whoever pastures (his sheep) near it, is likely to get in it at any moment.'"
+  },
+  {
+    "collection": "Sahih Muslim",
+    "number": 1599,
+    "text": "Jabir said, 'The Messenger of Allah (ﷺ) cursed the one who accepts usury, the one who gives it, the one who records it, and the two witnesses to it.' He said, 'They are all alike.'"
+  },
+  {
+    "collection": "Jami` at-Tirmidhi",
+    "number": 1295,
+    "text": "Anas ibn Malik said: 'The Messenger of Allah (ﷺ) cursed ten people in connection with wine: the one who presses it, the one for whom it is pressed, the one who drinks it, the one who carries it, the one to whom it is carried, the one who serves it, the one who sells it, the one who consumes its price, the one who buys it and the one for whom it is bought.'"
+  },
+  {
+    "collection": "Sunan an-Nasa'i",
+    "number": 4481,
+    "text": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said: 'A time will come upon the people when they will not care where they get their wealth from, whether from a lawful or an unlawful source.'"
+  }
+]

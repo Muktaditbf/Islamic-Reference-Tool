@@ -1,0 +1,22 @@
+[
+  {
+    "surah": 2,
+    "ayah": 219,
+    "text": "They ask you about wine and gambling. Say, 'In them is great sin and [yet, some] benefit for people. But their sin is greater than their benefit.' And they ask you what they should spend. Say, 'The excess [beyond needs].' Thus Allah makes clear to you the verses [of revelation] that you might give thought."
+  },
+  {
+    "surah": 5,
+    "ayah": 90,
+    "text": "O you who have believed, indeed, intoxicants, gambling, [sacrificing on] stone alters [to other than Allah], and divining arrows are but defilement from the work of Satan, so avoid it that you may be successful."
+  },
+  {
+    "surah": 2,
+    "ayah": 275,
+    "text": "Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, 'Trade is [just] like interest.' But Allah has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair is for Allah. But whoever returns [to dealing in interest] - those are the companions of the Fire; they will abide eternally therein."
+  },
+  {
+    "surah": 5,
+    "ayah": 3,
+    "text": "Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah, and [those animals] killed by strangling or by a violent blow or by a fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allah is Forgiving and Merciful."
+  }
+]
